@@ -1,16 +1,11 @@
-# kamera_flutter
+Nama    : Fatriya Ibnu Ash shidiqqi
 
-A new Flutter project.
+Kelas   : TI - 3B
 
-## Getting Started
+NIM     : 2241720138
 
-This project is a starting point for a Flutter application.
+# #09 | Kamera
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 1: Mengambil Foto dengan Kamera di Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](assets/P1.gif)
