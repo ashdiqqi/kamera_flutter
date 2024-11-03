@@ -9,7 +9,7 @@ class DisplayPictureScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Display the Picture - 2241720083')),
+      appBar: AppBar(title: const Text('Display the Picture - 2241720138')),
       body: Center(
         child: Image.file(File(imagePath)),
       ),
